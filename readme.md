@@ -20,7 +20,9 @@
 
 ### 自動部屬
 
-```
-hexo generate
-hexo deploy
-```
+`hexo generate`  
+`hexo deploy`
+
+### 新增頁面
+
+`hexo new title`
