@@ -1,6 +1,16 @@
-### 安裝 hexo
+### demo
 
-`npm install -g hexo-cli`
+https://pseuder.github.io/
+
+### 安裝相關套件
+
+`npm install`  
+`git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly`
+
+### 自動部屬
+
+`hexo generate`  
+`hexo deploy`
 
 ### 新增 hexo 專案
 
@@ -17,11 +27,6 @@
 ### 自動部屬工具
 
 ` npm install --save hexo-deployer-git`
-
-### 自動部屬
-
-`hexo generate`  
-`hexo deploy`
 
 ### 新增頁面
 
