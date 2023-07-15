@@ -20,7 +20,7 @@ hexo server
 - 部署至 pages 分支  
   `hexo deploy`
 
-- 若需更新 source code 需推至 main 分支
+- 若需更新 source code 需推至 master 分支
 
 - 安裝 hexo 自動部署工具(需要時再裝)  
   `npm install hexo-deployer-git`
