@@ -6,6 +6,8 @@ tags:
 
 [Demo video](https://youtu.be/FsAhyxJDSNM)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FsAhyxJDSNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # 專案描述
 
 以樹莓派為基礎, 打造多功能保險箱

@@ -1,10 +1,12 @@
 ---
-title: linebot-latex
+title: Latex轉換工具
 date: 2023-07-22 11:31:59
 tags:
 ---
 
 [Demo video](https://youtu.be/8Zs-yPdhx2s)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Zs-yPdhx2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # 專案描述
 
