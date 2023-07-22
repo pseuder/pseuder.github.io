@@ -7,10 +7,13 @@ https://pseuder.github.io/
 ```
 npm install
 
-git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly
-
 hexo server
 ```
+
+### Troubleshooting
+
+- 'hexo' 不是內部或外部命令、可執行的程式或批次檔。  
+  將 hexo 裝到全域 `npm install hexo -g`
 
 ### 更新
 
