@@ -14,23 +14,18 @@ tags:
 
 # 使用技術
 
-- 前端: vue3
-- UI 組件: Ant Design
+- UI 規劃: [Figma](https://www.figma.com/file/24OpiEY1DoK6SP9hm9h7c0/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%90%8D%E7%B3%BB%E7%B5%B1?type=design&mode=design&t=B1WdrBut0nmxfA78-1) ![no img](figma.png)
+- 前端: vue3, vuex(全域管理), vite(快速建構)
+- 後端: express
+- 資料庫: mongoose
 - Router: vue-router
-- tailwindcss
-- vue-i18n
-- vee-validate
-- vue3-google-login
-- vue3-recaptcha2
-- vuex
-- mongodb
-- express
-- passport-jwt
-- joi
-
-- eslint
-- prettier
-- vite
+- UI 組件: Ant Design
+- CSS 框架: Tailwindcss
+- 多國語系: vue-i18n
+- 身份驗證: jwt, recaptcha
+- 資料驗證: vee-validate, joi
+- 第三方登入: vue3-google-login
+- 開發環境: eslint, prettier
 
 # 功能介紹
 
