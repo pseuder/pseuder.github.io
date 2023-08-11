@@ -2,6 +2,9 @@
 title: 樹莓派保險箱
 date: 2023-07-22 13:49:40
 tags:
+  - Python
+  - Raspberry Pi
+  - IOT
 ---
 
 [Demo video](https://youtu.be/FsAhyxJDSNM)

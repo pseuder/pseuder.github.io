@@ -2,6 +2,12 @@
 title: 線上夾娃娃機
 date: 2023-07-15 14:47:35
 tags:
+  - Vue
+  - Python
+  - Django
+  - Three.js
+  - Cannon.js
+  - Sqlite
 ---
 
 [Demo](https://pseuder.pythonanywhere.com/)

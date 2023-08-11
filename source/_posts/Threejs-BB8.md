@@ -2,6 +2,8 @@
 title: Threejs-BB8
 date: 2023-07-22 10:38:06
 tags:
+  - Javascript
+  - Three.js
 ---
 
 [Demo](https://pseuder.github.io/Threejs-BB8/index.html)

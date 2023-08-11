@@ -2,6 +2,11 @@
 title: 報價單
 date: 2023-07-08 13:30:27
 tags:
+  - Vue
+  - Python
+  - Django
+  - Element UI
+  - Sqlite
 ---
 
 [Github Repository](https://github.com/pseuder/hj-quotation)

@@ -1,7 +1,14 @@
 ---
 title: 活動系統
 date: 2023-07-08 14:56:47
+top: true
 tags:
+  - Vue
+  - Express
+  - Mongoose
+  - Tailwindcss
+  - i18n
+  - RWD
 ---
 
 [Demo](https://activity-system.onrender.com/)
@@ -22,10 +29,24 @@ tags:
 - UI 組件: Ant Design
 - CSS 框架: Tailwindcss
 - 多國語系: vue-i18n
-- 身份驗證: jwt, recaptcha
+- 身份驗證: jwt, reCAPTCHA
 - 資料驗證: vee-validate, joi
 - 第三方登入: vue3-google-login
 - 開發環境: eslint, prettier
+- RWD
+  <div style="display: flex;">
+    <div style="flex: 1; padding: 10px;">
+    窄<img src="rwd_login_sm.png" alt="Image 1" >
+    </div>
+    
+    <div style="flex: 1; padding: 10px;">
+    中<img src="rwd_login_md.png" alt="Image 1" >
+    </div>
+
+    <div style="flex: 1; padding: 10px;">
+    寬<img src="rwd_login_lg.png" alt="Image 1" >
+    </div>
+  </div>
 
 # 功能介紹
 

@@ -2,6 +2,8 @@
 title: WebGL-照射燈與反射面板
 date: 2023-07-16 10:36:01
 tags:
+  - Javascript
+  - WebGL
 ---
 
 [Demo](https://pseuder.github.io/WebGL-Spotlight-Followers/s1071539_hw2.html)
