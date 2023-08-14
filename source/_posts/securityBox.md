@@ -8,6 +8,7 @@ tags:
 ---
 
 [Demo video](https://youtu.be/FsAhyxJDSNM)
+[Github Repository](https://github.com/pseuder/securityBox)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FsAhyxJDSNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,6 +17,9 @@ tags:
 以樹莓派為基礎, 打造多功能保險箱
 
 可以透過按壓雲端平台上的虛擬按鈕或手機靠近來解鎖
+
+- 電路連接示意圖
+  ![image](chart.jpg)
 
 # 使用技術
 

@@ -7,6 +7,7 @@ tags:
   - Express
   - Mongoose
   - Tailwindcss
+  - AntDesign
   - i18n
   - RWD
 ---
@@ -33,6 +34,8 @@ tags:
 - 資料驗證: vee-validate, joi
 - 第三方登入: vue3-google-login
 - 開發環境: eslint, prettier
+- 部署平台: render
+
 - RWD
   <div style="display: flex;">
     <div style="flex: 1; padding: 10px;">
