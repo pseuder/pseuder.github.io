@@ -40,6 +40,11 @@ hexo server
 
 `hexo new title`
 
+<video src="https://youtu.be/m09tuQxB8_s" controls>
+  Your browser does not support the video tag.
+</video>
+
+
 ### 使用自訂 html
 
 ```
