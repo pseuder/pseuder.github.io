@@ -1,19 +1,16 @@
-### Demo page
+### Deploy page
 
 https://pseuder.github.io/
 
 ### Quick start
 
-```
-npm install
+`npm install`
 
-hexo server
-```
+`hexo server`
 
-### Troubleshooting
+選擇性安裝
+`npm install hexo -g`
 
-- 'hexo' 不是內部或外部命令、可執行的程式或批次檔。  
-  將 hexo 裝到全域 `npm install hexo -g`
 
 ### 更新
 
@@ -32,17 +29,11 @@ hexo server
 
 [butterfly](https://butterfly.js.org/posts/21cfbf15/#%E5%AE%89%E8%A3%9D)
 
-### 新增 hexo 專案
 
-`hexo init myblog`
 
 ### 新增頁面
 
-`hexo new title`
-
-<video src="https://youtu.be/m09tuQxB8_s" controls>
-  Your browser does not support the video tag.
-</video>
+`hexo new <title>`
 
 
 ### 使用自訂 html
@@ -70,7 +61,3 @@ layout: false
 </html>
 ```
 
-
-<video src="[https://example.com/video.mp4](https://youtu.be/m09tuQxB8_s)" controls>
-  Your browser does not support the video tag.
-</video>
