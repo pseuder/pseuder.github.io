@@ -12,7 +12,7 @@ tags:
   - RWD
 ---
 
-[Demo](https://activity-system.onrender.com/)
+[Demo](https://pseuder.xyz/activity-system/)
 [Github Repository Frontend](https://github.com/pseuder/activity_system)
 [Github Repository Backend](https://github.com/pseuder/activity_system_backend)
 
