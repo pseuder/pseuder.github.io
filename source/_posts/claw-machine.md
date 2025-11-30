@@ -1,5 +1,5 @@
 ---
-title: 線上夾娃娃機
+title: 【大學作業】線上夾娃娃機
 date: 2021-06-18 14:47:35
 tags:
   - Vue
@@ -10,7 +10,7 @@ tags:
   - Sqlite
 ---
 
-[Demo](https://pseuder.pythonanywhere.com/)
+[Demo](https://pseuder.xyz/claw_machine/#/)
 [Github Repository](https://github.com/pseuder/claw-machine)
 
 # 專案描述
@@ -25,7 +25,6 @@ tags:
 - 3D 模型：three.js
 - 物理引擎：cannon.js
 - 資料庫：db.sqlite3
-- 託管平台：pythonanywhere
 
 # 功能介紹
 

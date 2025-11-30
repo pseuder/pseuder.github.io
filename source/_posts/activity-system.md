@@ -1,5 +1,5 @@
 ---
-title: 活動系統
+title: 【SideProject】活動系統
 date: 2023-01-01 14:56:47
 top: true
 tags:
@@ -12,8 +12,7 @@ tags:
   - RWD
 ---
 
-[Demo](https://pseuder.xyz/activity-system/)
-[Github Repository](https://github.com/pseuder/ActivitySystem)
+[Demo 網站](https://pseuder.xyz/activity-system/)
 
 # 專案描述
 
