@@ -4,6 +4,7 @@ date: 2025-04-05 14:56:47
 top: true
 tags:
   - Vue
+  - Nuxt
   - FastAPI
   - MariaDB
   - Tailwindcss
@@ -24,7 +25,7 @@ tags:
 
 # 使用技術
 
-- 前端: Vue3, Vite, Vercel
+- 前端: Vue3, Nuxt3, Vercel
 - 後端: FastAPI, MariaDB, 自架 GCP VM
 - Router: Vue Router
 - UI 組件: ElementUI

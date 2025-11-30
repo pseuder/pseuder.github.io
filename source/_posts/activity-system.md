@@ -23,33 +23,30 @@ tags:
 # 使用技術
 
 - UI 規劃: [Figma](https://www.figma.com/file/24OpiEY1DoK6SP9hm9h7c0/%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%90%8D%E7%B3%BB%E7%B5%B1?type=design&mode=design&t=B1WdrBut0nmxfA78-1) ![no img](figma.png)
-- 前端: vue3, vuex(全域管理), vite(快速建構)
-- 後端: express
-- 資料庫: mongoose
-- Router: vue-router
+- 前端: Vue3, Pinia, Vite
+- 後端: MongoDB + Express.js
+- Router: Vue Router
 - UI 組件: Ant Design
 - CSS 框架: Tailwindcss
 - 多國語系: vue-i18n
 - 身份驗證: jwt, reCAPTCHA
 - 資料驗證: vee-validate, joi
-- 第三方登入: vue3-google-login
-- 開發環境: eslint, prettier
-- 部署平台: render
+- 第三方登入: Google / Azure / Facebook
 
 - RWD
   <div style="display: flex;">
     <div style="flex: 1; padding: 10px;">
-    窄<img src="rwd_login_sm.png" alt="Image 1" >
+    手機<img src="rwd_login_sm.png" alt="Image 1" >
     </div>
     
-    <div style="flex: 1; padding: 10px;">
-    中<img src="rwd_login_md.png" alt="Image 1" >
+    <div style="flex: 3; padding: 10px;">
+    平板<img src="rwd_login_md.png" alt="Image 1" >
     </div>
 
-    <div style="flex: 1; padding: 10px;">
-    寬<img src="rwd_login_lg.png" alt="Image 1" >
-    </div>
   </div>
+  <div >
+    電腦<img src="rwd_login_lg.png" alt="Image 1" >
+    </div>
 
 # 功能介紹
 
@@ -65,7 +62,5 @@ tags:
   ![no img](activity_detail.png)
 - 建立活動
   ![no img](create.png)
-- 建立活動錯誤
-  ![no img](create_error.png)
 - 查看跟自己有關的活動(已報名, 已收藏, 已建立)
   ![no img](mine.png)
